@@ -1,7 +1,6 @@
 <script setup>
-import noteOSS from "./components/noteOSS.vue"
+import { RouterLink, RouterView } from "vue-router"
 </script>
-
 <template>
-  <noteOSS />
+  <RouterView />
 </template>

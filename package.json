@@ -10,14 +10,16 @@
   },
   "dependencies": {
     "lucide-vue-next": "^0.102.0",
-    "vue": "^3.2.45"
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",
-    "eslint": "^8.28.0",
-    "eslint-config-prettier": "^8.5.0",
-    "prettier": "^2.8.0",
-    "sass": "^1.56.1",
-    "vite": "^3.2.4"
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.22.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "prettier": "^2.7.1",
+    "vite": "^3.2.4",
+    "sass": "^1.56.1"
   }
 }
