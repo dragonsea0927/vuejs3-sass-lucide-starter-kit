@@ -7,7 +7,7 @@
 <h1><img height="25" src="./public/favicon.png">&nbsp;Template Vue.js 3 + SASS + Lucide Icons</h1>
 
 
-> A template to start a new project with [Vue.js 3](https://vuejs.org/) + Vue Router, SASS and [Lucide Icons](https://lucide.dev/). ESlint and Prettier are also configured.
+> A template to start a new project with [Vue.js 3](https://vuejs.org/) + **Vue Router**, SASS and [Lucide Icons](https://lucide.dev/). ESlint and Prettier are also configured.
 ____
 ## How to develop this project
 
