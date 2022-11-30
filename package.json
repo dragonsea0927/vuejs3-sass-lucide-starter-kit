@@ -1,0 +1,23 @@
+{
+  "name": "template-vuejs-sass",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format:fix": "prettier --write ./src",
+    "lint:fix": "eslint --fix ./src"
+  },
+  "dependencies": {
+    "lucide-vue-next": "^0.101.0",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "eslint": "^8.28.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.8.0",
+    "sass": "^1.56.1",
+    "vite": "^3.2.4"
+  }
+}

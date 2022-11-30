@@ -1,0 +1,23 @@
+@import "@/assets/scss/base";
+@import "grid.scss";
+@import 'variables.scss';
+
+#app {
+	max-width: 1200px;
+	margin: 0 auto;
+	font-weight: normal;
+}
+
+a {
+	text-decoration: none;
+	color: $primary;
+	font-weight: 600;
+	transition: 0.2s;
+}
+
+@media (hover: hover) {
+	a:hover {
+		color: $background-primary;
+	}
+}
+
