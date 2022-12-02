@@ -737,9 +737,9 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
-lucide-vue-next@^0.102.0:
-  version "0.102.0"
-  resolved "https://registry.npmjs.org/lucide-vue-next/-/lucide-vue-next-0.102.0.tgz"
+lucide-vue-next@^0.103.0:
+  version "0.103.0"
+  resolved "https://registry.yarnpkg.com/lucide-vue-next/-/lucide-vue-next-0.103.0.tgz#77dea799c04fc6145c3bae1cb6cf6715bd3db75b"
 
 magic-string@^0.25.7:
   version "0.25.9"
