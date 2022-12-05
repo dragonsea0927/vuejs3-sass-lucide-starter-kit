@@ -11,7 +11,7 @@ A template to start a new project with [Vue.js 3](https://vuejs.org/) + **Vue Ro
 
 > **Note**
 >
-> This project is and will always be up to date in terms of dependencies. 
+> This project is and will always be up-to-date in terms of dependencies. 
 
 ____
 ## How to develop this project
