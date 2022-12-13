@@ -1,8 +1,8 @@
-@import "@/assets/scss/base";
+@import "base";
 @import "grid.scss";
 @import 'variables.scss';
 
-#app {
+main {
 	max-width: 1200px;
 	margin: 0 auto;
 	font-weight: normal;
