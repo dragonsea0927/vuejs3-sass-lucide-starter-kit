@@ -1,5 +1,11 @@
-<script setup>
+<script>
 import noteOSS from "@/components/noteOSS.vue"
+export default {
+  components: {
+    noteOSS,
+  },
+  title: "Home",
+}
 </script>
 
 <template>
