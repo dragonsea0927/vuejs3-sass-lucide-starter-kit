@@ -1,8 +1,8 @@
-@import './variables';
+@import "./_variables.scss";
 
 @font-face {
-  font-family: 'Lato';
-  src: url('@/assets/fonts/Lato-Regular.ttf');
+  font-family: "Lato";
+  src: url("@/assets/fonts/Lato-Regular.ttf");
 }
 
 *,
@@ -18,7 +18,7 @@ body {
   transition: color 0.5s, background-color 0.5s;
   line-height: 1.6;
   font-family: "Lato", Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans",
-  "Helvetica Neue", sans-serif;
+    "Helvetica Neue", sans-serif;
   font-size: 1.1rem;
   margin: 8px;
   text-rendering: optimizeLegibility;
@@ -28,36 +28,37 @@ body {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 5rem;
   font-weight: 600;
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 2.6rem;
   font-weight: 600;
 }
 
 h3 {
-  font-size: 1.2rem;
+  font-size: 2rem;
   font-weight: 500;
 }
 
 @media screen and (max-width: $br-mobile) {
   h1 {
-	font-size: 2rem;
+    font-size: 3rem;
   }
 
   h2 {
-	font-size: 1.2rem;
+    font-size: 1.7rem;
   }
 
   h3 {
-	font-size: 1rem;
+    font-size: 1rem;
   }
 }
 
 p {
   line-height: 1.8rem;
+  margin: 1rem 0;
 }
 
 b {
@@ -65,13 +66,17 @@ b {
 }
 
 a {
-	text-decoration: none;
-	color: $primary;
-	font-weight: 600;
-	transition: 0.2s;
-	&:hover {
-		color: $background-primary;
-	}
+  text-decoration: none;
+  color: $primary;
+  font-weight: 600;
+  transition: 0.2s;
+  &:hover {
+    color: $background-primary;
+  }
+}
+
+img {
+  max-width: 100%;
 }
 
 main {
@@ -82,7 +87,7 @@ main {
 
 @media (max-width: $br-desktop) {
   main {
-	margin: auto .7rem;
+    margin: auto 0.7rem;
   }
 }
 
@@ -90,50 +95,52 @@ section {
   margin: 6rem 0;
 
   header {
-	margin-bottom: 2rem;
-
+    margin-bottom: 2rem;
   }
 }
 
-button, .btn, input {
-  padding: .7rem 2.2rem;
+button,
+.btn,
+input {
+  padding: 0.7rem 2.2rem;
   border-radius: 7px;
-  margin: 0 .2rem;
+  margin: 0 0.2rem;
   border: unset;
   font-weight: 600;
 }
 
-button, .btn {
+button,
+.btn {
   border: none;
   color: white;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
-  transition: .2s;
+  transition: 0.2s;
   text-transform: uppercase;
 
   &:hover {
-	box-shadow: 3px 3px 0 0 $quite-black;
+    box-shadow: 3px 3px 0 0 $quite-black;
   }
 }
 
 form {
-  margin: .3rem 0;
+  margin: 0.3rem 0;
 }
 
 @media screen and (max-width: $br-mobile) {
   form {
-	display: flex;
-	flex-direction: column;
-	gap: .4rem;
-	width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    width: 100%;
   }
 }
 
 label {
   display: block;
-  margin-bottom: .2rem;
+  margin-bottom: 0.2rem;
   font-weight: 600;
 }
 
@@ -145,19 +152,19 @@ summary {
   text-transform: uppercase;
 
   &:hover {
-	user-select: none;
-	cursor: pointer;
+    user-select: none;
+    cursor: pointer;
   }
 }
 
 @keyframes sweep {
   0% {
-	opacity: 0;
-	transform: translateY(-10px)
+    opacity: 0;
+    transform: translateY(-10px);
   }
   100% {
-	opacity: 1;
-	transform: translateY(0)
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
@@ -170,10 +177,10 @@ footer {
   user-select: none;
 
   a {
-	color: #ffffff;
+    color: #ffffff;
 
-	&:hover {
-	  color: #fcb0ac;
-	}
+    &:hover {
+      color: #fcb0ac;
+    }
   }
 }
