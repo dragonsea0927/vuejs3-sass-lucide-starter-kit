@@ -1,0 +1,21 @@
+@import './_variables.scss';
+.row {
+  display: flex;
+  flex-direction: row;
+  padding-top: 2rem;
+  gap: 2rem;
+  &-alitem-c {
+    @extend .row;
+    align-items: center
+  }
+  > .col {
+	flex: 1;
+  }
+}
+
+@media screen and (max-width: $br-tablet) {
+  .row {
+    flex-direction: column;
+    gap: 1rem;
+  }
+}
