@@ -18,14 +18,14 @@ In this template, we have a multitude of features that will help you to start yo
 
 ## ✨ Features
 
-|                       |                                                                     |
-|-----------------------|---------------------------------------------------------------------|
-| ✅ Vue.js 3            | [Documentation](https://vuejs.org/api/)                             |
-| ✅ Vue Router          | [Documentation](https://router.vuejs.org/api/)                      |
-| ✅ @unjs/Unhead        | [Documentation](https://unhead.harlanzw.com/guide/guides/usehead)   |
-| ✅ SASS                | [Documentation](https://sass-lang.com/documentation)                |
-| ✅ Lucide Icons        | [Documentation](https://lucide.dev/docs/lucide-vue-next)            |
-| ✅ ESLint and Prettier | [Documentation](https://eslint.org/docs/user-guide/getting-started) |
+|                         |                                                                     |
+|-------------------------|---------------------------------------------------------------------|
+| ✅ `Vue.js 3`            | [Documentation](https://vuejs.org/api/)                             |
+| ✅ `Vue Router`          | [Documentation](https://router.vuejs.org/api/)                      |
+| ✅ `@unjs/Unhead`        | [Documentation](https://unhead.harlanzw.com/guide/guides/usehead)   |
+| ✅ `SASS`                | [Documentation](https://sass-lang.com/documentation)                |
+| ✅ `Lucide Icons`        | [Documentation](https://lucide.dev/docs/lucide-vue-next)            |
+| ✅ `ESLint and Prettier` | [Documentation](https://eslint.org/docs/user-guide/getting-started) |
 
 
 ____
