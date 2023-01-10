@@ -4,17 +4,32 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter)](https://twitter.com/Thomasbnt_)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me%20on%20GitHub%20-%23EA54AE.svg?&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) 
 
-<h1><img height="30" src="./public/favicon.png">&nbsp;Template Vue.js 3 + SASS + Lucide Icons</h1>
+<h1><img height="30" src="./public/favicon.png" alt="Logo of this starter kit"/>&nbsp;Vue.js 3 + SASS + Lucide Icons Starter Kit</h1>
 
 
-A template to start a new project with [Vue.js 3](https://vuejs.org/) + **Vue Router**, SASS and [Lucide Icons](https://lucide.dev/). ESlint and Prettier are also configured.
+A template to start a new project with [Vue.js 3](https://vuejs.org/) + **Vue Router** + **@unjs/Unhead** for SEO, SASS and [Lucide Icons](https://lucide.dev/). ESlint and Prettier are also configured.
 
 > **Note**
 >
 > This project is and will always be up-to-date in terms of dependencies. 
 
+In this template, we have a multitude of features that will help you to start your project quickly and easily.
+
+
+## ✨ Features
+
+|                       |                                                                     |
+|-----------------------|---------------------------------------------------------------------|
+| ✅ Vue.js 3            | [Documentation](https://vuejs.org/api/)                             |
+| ✅ Vue Router          | [Documentation](https://router.vuejs.org/api/)                      |
+| ✅ @unjs/Unhead        | [Documentation](https://unhead.harlanzw.com/guide/guides/usehead)   |
+| ✅ SASS                | [Documentation](https://sass-lang.com/documentation)                |
+| ✅ Lucide Icons        | [Documentation](https://lucide.dev/docs/lucide-vue-next)            |
+| ✅ ESLint and Prettier | [Documentation](https://eslint.org/docs/user-guide/getting-started) |
+
+
 ____
-## How to develop this project
+## 🚀 How to develop this project
 
 ### Project setup
 ```bash
