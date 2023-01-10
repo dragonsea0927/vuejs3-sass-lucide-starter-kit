@@ -62,6 +62,21 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@unhead/dom@1.0.15":
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/@unhead/dom/-/dom-1.0.15.tgz#03d65840fa4dea279ad70241e36939aa33ee61c1"
+  integrity sha512-W3P9eGazfQPMZTG4ryb5oOA02Z4o16Jxo8DAihF/7Xmg/FVYY5Up9p9et7Nbb6AKNgt1PEz3Sp0xBaw+F6Uyjw==
+  dependencies:
+    "@unhead/schema" "1.0.15"
+
+"@unhead/schema@1.0.15":
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/@unhead/schema/-/schema-1.0.15.tgz#1e0ac9ff3261ce15adfcd69eb323768ce973811a"
+  integrity sha512-aWgHDHcemcx20zZun2hCFvZC6Ob4h14D4puhknuQoMkMOZcxh2ffYoJHb6mS3TeQRwAXCOsSFIHAgwIbayjk0w==
+  dependencies:
+    "@zhead/schema" "^1.0.9"
+    hookable "^5.4.2"
+
 "@vitejs/plugin-vue@^3.2.0":
   version "3.2.0"
   resolved "https://registry.npmjs.org/@vitejs/plugin-vue/-/plugin-vue-3.2.0.tgz"
@@ -156,6 +171,11 @@
 "@vue/shared@3.2.45":
   version "3.2.45"
   resolved "https://registry.npmjs.org/@vue/shared/-/shared-3.2.45.tgz"
+
+"@zhead/schema@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@zhead/schema/-/schema-1.0.9.tgz#edb74b66beda5dd4dcbe50dc351e7da4e0016d5b"
+  integrity sha512-MBubVXXEJX86ZBL6CDK0rYi1mC82zuben1MwwAEe98EFN1w4Oy0l2roJaM51MwQEvZ+WTi6o4lCxUShtLQJk8A==
 
 acorn-jsx@^5.3.2:
   version "5.3.2"
@@ -628,6 +648,11 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
+hookable@^5.4.2:
+  version "5.4.2"
+  resolved "https://registry.yarnpkg.com/hookable/-/hookable-5.4.2.tgz#6a1d3c4b3cb5b4262f99b3070ce0ee92c9c78049"
+  integrity sha512-6rOvaUiNKy9lET1X0ECnyZ5O5kSV0PJbtA5yZUgdEF7fGJEVwSLSislltyt7nFwVVALYHQJtfGeAR2Y0A0uJkg==
+
 ignore@^5.2.0:
   version "5.2.0"
   resolved "https://registry.npmjs.org/ignore/-/ignore-5.2.0.tgz"
@@ -990,6 +1015,15 @@ type-check@^0.4.0, type-check@~0.4.0:
 type-fest@^0.20.2:
   version "0.20.2"
   resolved "https://registry.npmjs.org/type-fest/-/type-fest-0.20.2.tgz"
+
+unhead@^1.0.15:
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/unhead/-/unhead-1.0.15.tgz#a90a8f1d2623f993eee2eccad915f445f339a464"
+  integrity sha512-XNGYe/9h/gycVf15CMJXl7Mycgrjcp8yOOxe/QtcA/V5/e1KXOOKXvsXDui9tabWEh2s/GejZS0TtUj5OTfusQ==
+  dependencies:
+    "@unhead/dom" "1.0.15"
+    "@unhead/schema" "1.0.15"
+    hookable "^5.4.2"
 
 uri-js@^4.2.2:
   version "4.4.1"

@@ -1,11 +1,17 @@
 <script>
-import noteOSS from "@/components/noteOSS.vue"
+import noteOSS from "@/components/noteOSS.vue";
+import { useHead } from "unhead";
+
 export default {
   components: {
-    noteOSS,
+    noteOSS
   },
-  title: "Home",
-}
+  mounted() {
+    useHead({
+      title: "Home - Template Vue.js 3 + Vue Router + SASS + Lucide Icons",
+    });
+  }
+};
 </script>
 
 <template>
