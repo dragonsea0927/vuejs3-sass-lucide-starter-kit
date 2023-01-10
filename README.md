@@ -33,7 +33,7 @@ yarn build
 
 ### Lints and fixes files
 ```bash
-yarn lint
+yarn lint:fix && yarn format:fix
 ```
 
 ### Customize configuration

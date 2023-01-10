@@ -1,4 +1,4 @@
-@import './_variables.scss';
+@import "./_variables.scss";
 .row {
   display: flex;
   flex-direction: row;
@@ -6,10 +6,10 @@
   gap: 2rem;
   &-alitem-c {
     @extend .row;
-    align-items: center
+    align-items: center;
   }
   > .col {
-	flex: 1;
+    flex: 1;
   }
 }
 
