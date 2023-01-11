@@ -18,14 +18,19 @@ In this template, we have a multitude of features that will help you to start yo
 
 ## ✨ Features
 
-|                         | Links                                                                                      |  
-|-------------------------|--------------------------------------------------------------------------------------------|
-| ✅ `Vue.js 3`            | [🔧](https://vuejs.org/api/) - [🏠](https://vuejs.org/)                                    |
-| ✅ `Vue Router`          | [🔧](https://router.vuejs.org/api/) - [🏠](https://router.vuejs.org)                       |
-| ✅ `@unjs/Unhead`        | [🔧](https://unhead.harlanzw.com/guide/guides/usehead) - [🏠](https://unhead.harlanzw.com) |
-| ✅ `SASS`                | [🔧](https://sass-lang.com/documentation) - [🏠](https://sass-lang.com)                    |
-| ✅ `Lucide Icons`        | [🔧](https://lucide.dev/docs/lucide-vue-next) - [🏠](https://lucide.dev)                   |
-| ✅ `ESLint and Prettier` | [🔧](https://eslint.org/docs/user-guide/getting-started) - [🏠](https://eslint.org)        |
+|                                 |                                                             Links                                                              |                      Version |  
+|:--------------------------------|:------------------------------------------------------------------------------------------------------------------------------:|-----------------------------:|
+| ✅ `Vue.js`                      |                                    [🔧](https://vuejs.org/api/) - [🏠](https://vuejs.org/)                                     |                  > `^3.2.45` |
+| ✅ `Vue Router`                  |                              [🔧](https://router.vuejs.org/api/) - [🏠](https://router.vuejs.org)                              |                   > `^4.1.6` |
+| ✅ `@unjs/Unhead`                |                   [🔧](https://unhead.harlanzw.com/guide/guides/usehead) - [🏠](https://unhead.harlanzw.com)                   |                  > `^1.0.15` |
+| ✅ `SASS`                        |                            [🔧](https://sass-lang.com/documentation) - [🏠](https://sass-lang.com)                             |                  > `^1.56.2` |
+| ✅ `Lucide Icons`                |                            [🔧](https://lucide.dev/docs/lucide-vue-next) - [🏠](https://lucide.dev)                            | > `lucide-vue-next@^0.103.0` |
+| ———————————————————             |                                                             —————                                                              |             ———————————————— |
+| ✅ `ESLint`                      |                       [🔧](https://eslint.org/docs/user-guide/gtting-started) - [🏠](https://eslint.org)                       |                  > `^8.29.0` |
+| ✅ `ESLint plugin vue`           |                          [🔧](https://eslint.vuejs.org/user-guide/) - [🏠](https://eslint.vuejs.org/)                          |                   > `^9.3.0` |
+| ✅ `Prettier`                    |                           [🔧](https://prettier.io/docs/en/index.html) - [🏠](https://prettier.io/)                            |                  >  `^2.8.0` |
+| ✅ `@vue/eslint-config-prettier` | [🔧](https://github.com/vuejs/eslint-config-prettier#readme) - [🏠](https://www.npmjs.com/package/@vue/eslint-config-prettier) |                  >  `^7.0.0` |
+| ✅ `Vite`                        |                                  [🔧](https://vitejs.dev/config/) - [🏠](https://vitejs.dev/)                                  |                  >  `^3.2.5` |
 
 
 ____
