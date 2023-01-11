@@ -8,6 +8,9 @@
     "format:fix": "prettier --write ./src",
     "lint:fix": "eslint --fix ./src"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "dependencies": {
     "lucide-vue-next": "^0.104.0",
     "unhead": "^1.0.15",
