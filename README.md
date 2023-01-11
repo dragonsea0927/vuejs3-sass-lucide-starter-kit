@@ -18,14 +18,14 @@ In this template, we have a multitude of features that will help you to start yo
 
 ## ✨ Features
 
-|                         | Link(s)                                                             |
-|-------------------------|---------------------------------------------------------------------|
-| ✅ `Vue.js 3`            | [Documentation](https://vuejs.org/api/)                             |
-| ✅ `Vue Router`          | [Documentation](https://router.vuejs.org/api/)                      |
-| ✅ `@unjs/Unhead`        | [Documentation](https://unhead.harlanzw.com/guide/guides/usehead)   |
-| ✅ `SASS`                | [Documentation](https://sass-lang.com/documentation)                |
-| ✅ `Lucide Icons`        | [Documentation](https://lucide.dev/docs/lucide-vue-next)            |
-| ✅ `ESLint and Prettier` | [Documentation](https://eslint.org/docs/user-guide/getting-started) |
+|                         | Links                                                                                     |  
+|-------------------------|-------------------------------------------------------------------------------------------|
+| ✅ `Vue.js 3`            | [🔧](https://vuejs.org/api/) - [🏠](https://vuejs.org/)                                   |
+| ✅ `Vue Router`          | [🔧](https://router.vuejs.org/api/) - [🏠](https://router.vuejs.org)                      |
+| ✅ `@unjs/Unhead`        | [🔧](https://unhead.harlanzw.com/guide/guides/usehead)- [🏠](https://unhead.harlanzw.com) |
+| ✅ `SASS`                | [🔧](https://sass-lang.com/documentation) - [🏠](https://sass-lang.com)                   |
+| ✅ `Lucide Icons`        | [🔧](https://lucide.dev/docs/lucide-vue-next) - [🏠](https://lucide.dev)                  |
+| ✅ `ESLint and Prettier` | [🔧](https://eslint.org/docs/user-guide/getting-started) - [🏠](https://eslint.org)       |
 
 
 ____
