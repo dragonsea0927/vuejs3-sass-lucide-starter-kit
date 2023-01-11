@@ -7,7 +7,7 @@
 <h1><img height="30" src="./public/favicon.png" alt="Logo of this starter kit"/>&nbsp;Vue.js 3 + SASS + Lucide Icons Starter Kit</h1>
 
 
-A template to start a new project with [Vue.js 3](https://vuejs.org/) + **Vue Router** + **@unjs/Unhead** for SEO, SASS and [Lucide Icons](https://lucide.dev/). ESlint and Prettier are also configured.
+A template to start a new project with [Vue.js 3](https://vuejs.org/) + [**Vue Router**](https://router.vuejs.org/) + [**@unjs/Unhead**](https://unhead.harlanzw.com) for SEO, [SASS](https://sass-lang.com) and [Lucide Icons](https://lucide.dev/). ESlint and Prettier are also configured.
 
 > **Note**
 >
@@ -18,7 +18,7 @@ In this template, we have a multitude of features that will help you to start yo
 
 ## ✨ Features
 
-|                         |                                                                     |
+|                         | Link(s)                                                             |
 |-------------------------|---------------------------------------------------------------------|
 | ✅ `Vue.js 3`            | [Documentation](https://vuejs.org/api/)                             |
 | ✅ `Vue Router`          | [Documentation](https://router.vuejs.org/api/)                      |
