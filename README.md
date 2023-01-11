@@ -2,7 +2,6 @@
 [![Depfu](https://badges.depfu.com/badges/ac2694151fe2ff604e6e8c683ce9e96b/overview.svg)](https://depfu.com/github/thomasbnt/vuejs3-sass-lucide-starter-kit?project_id=37224)
 [![Discord](https://img.shields.io/discord/367753345575944221?color=%237289DA&label=Discord%20server&logo=discord&logoColor=white)](https://thomasbnt.dev/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter)](https://twitter.com/Thomasbnt_)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me%20on%20GitHub%20-%23EA54AE.svg?&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) 
 
 <h1><img height="30" src="./public/favicon.png" alt="Logo of this starter kit"/>&nbsp;Vue.js 3 + SASS + Lucide Icons Starter Kit</h1>
 
@@ -32,8 +31,16 @@ In this template, we have a multitude of features that will help you to start yo
 | ✅ `Vite`                        |                                           [🔧](https://vitejs.dev/config/) - [🏠](https://vitejs.dev/)                                           |                  >  `^4.0.4` |
 | ✅ `@vitejs/plugin-vue`          | [🔧](https://github.com/vitejs/vite-plugin-vue/blob/main/packages/plugin-vue/README.md) - [🏠](https://www.npmjs.com/package/@vitejs/plugin-vue) |                  >  `^4.0.0` |
 
+## ⭐ Sponsors
 
-____
+Sponsors are people who support the development of this project. If you want to support me, you can do it by clicking on the button below.
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me%20on%20GitHub%20-%23EA54AE.svg?&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt)
+
+[![Sponsors](https://cdn.jsdelivr.net/gh/thomasbnt/sponsors/sponsors.svg)](https://github.com/sponsors/thomasbnt)
+
+Thanks to them, I can continue to develop this project and others. 🤩
+
 ## 🚀 How to develop this project
 
 ### Project setup
