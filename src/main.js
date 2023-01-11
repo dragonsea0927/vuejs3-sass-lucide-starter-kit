@@ -1,9 +1,11 @@
-import { createApp } from "vue"
+import {createApp} from "vue"
+
 import App from "./App.vue"
+
 const app = createApp(App)
 
 // SEO 😎
-import { createHead } from "unhead";
+import{createHead} from "unhead";
 createHead();
 
 // SCSS ✨
