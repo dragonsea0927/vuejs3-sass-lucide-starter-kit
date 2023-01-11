@@ -1,5 +1,5 @@
 [![Made with VueJS](https://img.shields.io/badge/-Made%20with%20Vue.js-4fc08d?&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![Depfu](https://badges.depfu.com/badges/ac2694151fe2ff604e6e8c683ce9e96b/count.svg)](https://depfu.com/github/thomasbnt/template-vuejs3-sass-lucide?project_id=37224)
+[![Depfu](https://badges.depfu.com/badges/ac2694151fe2ff604e6e8c683ce9e96b/overview.svg)](https://depfu.com/github/thomasbnt/vuejs3-sass-lucide-starter-kit?project_id=37224)
 [![Discord](https://img.shields.io/discord/367753345575944221?color=%237289DA&label=Discord%20server&logo=discord&logoColor=white)](https://thomasbnt.dev/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter)](https://twitter.com/Thomasbnt_)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me%20on%20GitHub%20-%23EA54AE.svg?&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) 
