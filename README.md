@@ -1,7 +1,7 @@
 [![Made with VueJS](https://img.shields.io/badge/-Made%20with%20Vue.js-4fc08d?&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![Depfu](https://badges.depfu.com/badges/ac2694151fe2ff604e6e8c683ce9e96b/overview.svg)](https://depfu.com/github/thomasbnt/vuejs3-sass-lucide-starter-kit?project_id=37224)
 [![Discord](https://img.shields.io/discord/367753345575944221?color=%237289DA&label=Discord%20server&logo=discord&logoColor=white)](https://thomasbnt.dev/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter)](https://twitter.com/Thomasbnt_)
+[![Twitter Follow](https://img.shields.io/badge/Follow%20me%20on-Twitter-1DA1F2?&logo=Twitter)](https://twitter.com/Thomasbnt_)
 
 <h1><img height="30" src="./public/favicon.png" alt="Logo of this starter kit"/>&nbsp;Vue.js 3 + SASS + Lucide Icons Starter Kit</h1>
 
