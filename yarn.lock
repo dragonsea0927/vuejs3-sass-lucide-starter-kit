@@ -172,17 +172,17 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@unhead/dom@1.0.17":
-  version "1.0.17"
-  resolved "https://registry.yarnpkg.com/@unhead/dom/-/dom-1.0.17.tgz#e8078cd8a8a5cbace6ae1d376a42badbbdff8179"
-  integrity sha512-iLVBQ1ck8r8U+n1Rdk93ry6NP0jgRXuJwrujXlYUFkrvbkXl08rTfyyXHT+AkA1aZgFLS9KtYtbEhwzNeWfZtg==
+"@unhead/dom@1.0.18":
+  version "1.0.18"
+  resolved "https://registry.yarnpkg.com/@unhead/dom/-/dom-1.0.18.tgz#bba1e160ab8058597d3f1d0d63a431e1ead9697f"
+  integrity sha512-zX7w/Z3a1/spyQ3SuxB/0s1Tjx8zu5RzYBBXTtYvGutF8g/ScXreC0c5Vm5F3x4HOPdWG+71Qr/M+k6AxPLHDA==
   dependencies:
-    "@unhead/schema" "1.0.17"
+    "@unhead/schema" "1.0.18"
 
-"@unhead/schema@1.0.17":
-  version "1.0.17"
-  resolved "https://registry.yarnpkg.com/@unhead/schema/-/schema-1.0.17.tgz#b13e562fe103f67cb4b8aff8bb9a848f938d20db"
-  integrity sha512-Vfc6HWcZAzibzlzBMNhVTOC7AYqvq3QMIY6VF7myowl4xbSiPLOmp63ZWAXKavYjHDchAJXvL/PF+6sDaIeCLQ==
+"@unhead/schema@1.0.18":
+  version "1.0.18"
+  resolved "https://registry.yarnpkg.com/@unhead/schema/-/schema-1.0.18.tgz#c8c5bc9b43a21a85c681c337e6b038b6b5b29e85"
+  integrity sha512-LjNxwwQMZTD0b3LlB4/mmCZpO6HP7ZjK5sKuMpy7/+2O9HJO6TefxsDVrJVAitdUfm5Jej9cNEjnL2gJkc2uWg==
   dependencies:
     "@zhead/schema" "^1.0.9"
     hookable "^5.4.2"
@@ -1190,13 +1190,13 @@ type-fest@^0.20.2:
   resolved "https://registry.npmjs.org/type-fest/-/type-fest-0.20.2.tgz"
   integrity sha512-Ne+eE4r0/iWnpAxD852z3A+N0Bt5RN//NjJwRd2VFHEmrywxf5vsZlh4R6lixl6B+wz/8d+maTSAkN1FIkI3LQ==
 
-unhead@^1.0.17:
-  version "1.0.17"
-  resolved "https://registry.yarnpkg.com/unhead/-/unhead-1.0.17.tgz#b352901ba21a400d5d9413501f3c6936671cc2de"
-  integrity sha512-JjKjFxKwsmsAl/nLu3uTqd7bSTGOu4bhDj2KSYGBBfTVBmzJVK8lC/Aj0q/1au5g4NH4la+ulbmo3oWU4BqICw==
+unhead@^1.0.18:
+  version "1.0.18"
+  resolved "https://registry.yarnpkg.com/unhead/-/unhead-1.0.18.tgz#40d2dbabdd28b259b34322772dd94116452ed7dc"
+  integrity sha512-lHuOvFcj7ijFM6ceRuPq1+0sOAap8fueJxf+SkuWtfm68oxuLP8ct3C3oRyMT/hyWjzfWgoaECmjmw5x2cHnpg==
   dependencies:
-    "@unhead/dom" "1.0.17"
-    "@unhead/schema" "1.0.17"
+    "@unhead/dom" "1.0.18"
+    "@unhead/schema" "1.0.18"
     hookable "^5.4.2"
 
 uri-js@^4.2.2:

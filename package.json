@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "lucide-vue-next": "^0.104.0",
-    "unhead": "^1.0.17",
+    "unhead": "^1.0.18",
     "vue": "^3.2.45",
     "vue-router": "^4.1.6"
   },
