@@ -172,17 +172,17 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@unhead/dom@1.0.20":
-  version "1.0.20"
-  resolved "https://registry.yarnpkg.com/@unhead/dom/-/dom-1.0.20.tgz#bb15e893ed2242d79e7f8e85ca55fc4556c00d29"
-  integrity sha512-kGIR64Wo1GSC0TZt7wTVntMXFhuVYgxnm2vYZ7z/1Oiafj6uRsapKIlspft6klKZvndqUZuUUXVu++zgE0TdLg==
+"@unhead/dom@1.0.21":
+  version "1.0.21"
+  resolved "https://registry.yarnpkg.com/@unhead/dom/-/dom-1.0.21.tgz#f42c004bd26046f4b2a870c3bac3282e88015a73"
+  integrity sha512-rwVz7NWMdQ8kSTXv/WOhB0eTWYFD2SQwQ/J109IEqNUN9X3pIwcvdvlXMCG+qhJGFyiIgOl2X+W0cE+u/IiLVA==
   dependencies:
-    "@unhead/schema" "1.0.20"
+    "@unhead/schema" "1.0.21"
 
-"@unhead/schema@1.0.20":
-  version "1.0.20"
-  resolved "https://registry.yarnpkg.com/@unhead/schema/-/schema-1.0.20.tgz#6812231c8aeb7f7a4dd17c1dd1269e463dc8b660"
-  integrity sha512-BKLAlskamfqiXHxJV8r0Yl+HbOXYWxxs94mNUigHXsY9lma5AkcdKDTtKKXknfZLZRBUt5T/t44hw6BakFilkg==
+"@unhead/schema@1.0.21":
+  version "1.0.21"
+  resolved "https://registry.yarnpkg.com/@unhead/schema/-/schema-1.0.21.tgz#7b4b3ad118241682ad297bd100632ff239732184"
+  integrity sha512-amYg6vJ37xUhnL6bvL4S3lz6yDs5lWeqJu63/3a5bxH3Dq0WPJ+kdhpUXI+4enoNaWvLvm860WXUOtKr5D+DMg==
   dependencies:
     "@zhead/schema" "^1.1.0"
     hookable "^5.4.2"
@@ -1032,10 +1032,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@^2.8.3:
-  version "2.8.3"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.3.tgz#ab697b1d3dd46fb4626fbe2f543afe0cc98d8632"
-  integrity sha512-tJ/oJ4amDihPoufT5sM0Z1SKEuKay8LfVAMlbbhnnkvt6BUserZylqo2PN+p9KeljLr0OHa2rXHU1T8reeoTrw==
+prettier@^2.8.4:
+  version "2.8.4"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.4.tgz#34dd2595629bfbb79d344ac4a91ff948694463c3"
+  integrity sha512-vIS4Rlc2FNh0BySk3Wkd6xmwxB0FpOndW5fisM5H8hsZSxU2VWVB5CWIkIjWvrHjIhxk2g3bfMKM87zNTrZddw==
 
 punycode@^2.1.0:
   version "2.2.0"
@@ -1190,13 +1190,13 @@ type-fest@^0.20.2:
   resolved "https://registry.npmjs.org/type-fest/-/type-fest-0.20.2.tgz"
   integrity sha512-Ne+eE4r0/iWnpAxD852z3A+N0Bt5RN//NjJwRd2VFHEmrywxf5vsZlh4R6lixl6B+wz/8d+maTSAkN1FIkI3LQ==
 
-unhead@^1.0.20:
-  version "1.0.20"
-  resolved "https://registry.yarnpkg.com/unhead/-/unhead-1.0.20.tgz#68340c2c754c8aae29e7a7aae2abbb7545b9745e"
-  integrity sha512-eeaI6momdK5dG1qiGtSQbQDE9M+agu/6ovYXnPkCDNjLHnBcv0QkZ/tWef4Xf3trdIYmDNBF7jnvLYNN4wkYfw==
+unhead@^1.0.21:
+  version "1.0.21"
+  resolved "https://registry.yarnpkg.com/unhead/-/unhead-1.0.21.tgz#4f8d3de2c4ee7681c50e7e4090b19f8accd9ef83"
+  integrity sha512-vHXnozOkoSkCYIpGTWkW4JJbWMlY2I737sbBGxPj6maa9gEDMC50gwhCCVMnIvvMsJ6OxgNE5asEfSkSopfO+A==
   dependencies:
-    "@unhead/dom" "1.0.20"
-    "@unhead/schema" "1.0.20"
+    "@unhead/dom" "1.0.21"
+    "@unhead/schema" "1.0.21"
     hookable "^5.4.2"
 
 uri-js@^4.2.2:
