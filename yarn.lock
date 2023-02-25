@@ -247,10 +247,10 @@
   resolved "https://registry.npmjs.org/@vue/devtools-api/-/devtools-api-6.4.5.tgz"
   integrity sha512-JD5fcdIuFxU4fQyXUu3w2KpAJHzTVdN+p4iOX2lMWSHMOoQdMAcpFLZzm9Z/2nmsoZ1a96QEhZ26e50xLBsgOQ==
 
-"@vue/eslint-config-prettier@^7.0.0":
-  version "7.0.0"
-  resolved "https://registry.npmjs.org/@vue/eslint-config-prettier/-/eslint-config-prettier-7.0.0.tgz"
-  integrity sha512-/CTc6ML3Wta1tCe1gUeO0EYnVXfo3nJXsIhZ8WJr3sov+cGASr6yuiibJTL6lmIBm7GobopToOuB3B6AWyV0Iw==
+"@vue/eslint-config-prettier@^7.1.0":
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/@vue/eslint-config-prettier/-/eslint-config-prettier-7.1.0.tgz#97936379c7fb1d982b9d2c6b122306e3c2e464c8"
+  integrity sha512-Pv/lVr0bAzSIHLd9iz0KnvAr4GKyCEl+h52bc4e5yWuDVtLgFwycF7nrbWTAQAS+FU6q1geVd07lc6EWfJiWKQ==
   dependencies:
     eslint-config-prettier "^8.3.0"
     eslint-plugin-prettier "^4.0.0"
@@ -1102,10 +1102,10 @@ run-parallel@^1.1.9:
   dependencies:
     queue-microtask "^1.2.2"
 
-sass@^1.58.1:
-  version "1.58.1"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.58.1.tgz#17ab0390076a50578ed0733f1cc45429e03405f6"
-  integrity sha512-bnINi6nPXbP1XNRaranMFEBZWUfdW/AF16Ql5+ypRxfTvCRTTKrLsMIakyDcayUt2t/RZotmL4kgJwNH5xO+bg==
+sass@^1.58.3:
+  version "1.58.3"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.58.3.tgz#2348cc052061ba4f00243a208b09c40e031f270d"
+  integrity sha512-Q7RaEtYf6BflYrQ+buPudKR26/lH+10EmO9bBqbmPh/KeLqv8bjpTNqxe71ocONqXq+jYiCbpPUmQMS+JJPk4A==
   dependencies:
     chokidar ">=3.0.0 <4.0.0"
     immutable "^4.0.0"
@@ -1215,10 +1215,10 @@ util-deprecate@^1.0.2:
   resolved "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
-vite@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-4.1.1.tgz#3b18b81a4e85ce3df5cbdbf4c687d93ebf402e6b"
-  integrity sha512-LM9WWea8vsxhr782r9ntg+bhSFS06FJgCvvB0+8hf8UWtvaiDagKYWXndjfX6kGl74keHJUcpzrQliDXZlF5yg==
+vite@^4.1.4:
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-4.1.4.tgz#170d93bcff97e0ebc09764c053eebe130bfe6ca0"
+  integrity sha512-3knk/HsbSTKEin43zHu7jTwYWv81f8kgAL99G5NWBcA1LKvtvcVAC4JjBH1arBunO9kQka+1oGbrMKOjk4ZrBg==
   dependencies:
     esbuild "^0.16.14"
     postcss "^8.4.21"
