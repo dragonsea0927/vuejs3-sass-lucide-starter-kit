@@ -6,7 +6,9 @@
     "build": "vite build",
     "preview": "vite preview",
     "format:fix": "prettier --write ./src",
-    "lint:fix": "eslint --fix ./src"
+    "format:check": "prettier --check .",
+    "lint:fix": "eslint --fix ./src",
+    "lint:check": "eslint ."
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
