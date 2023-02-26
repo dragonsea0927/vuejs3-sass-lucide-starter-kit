@@ -30,5 +30,4 @@ div {
     color: white;
   }
 }
-
 </style>
