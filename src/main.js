@@ -6,7 +6,7 @@ const app = createApp(App)
 
 // SEO 😎
 import { createHead } from "unhead"
-createHead()
+app.use(createHead())
 
 // SCSS ✨
 import "./assets/scss/main.scss"
