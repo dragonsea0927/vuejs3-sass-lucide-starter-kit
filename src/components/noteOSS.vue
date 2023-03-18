@@ -10,9 +10,6 @@
   </div>
 </template>
 <script>
-export default {
-  name: "noteoss",
-}
 </script>
 <style lang="scss" scoped>
 div {
