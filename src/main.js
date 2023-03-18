@@ -5,7 +5,7 @@ import App from "./App.vue"
 const app = createApp(App)
 
 // SEO 😎
-import { createHead } from "unhead"
+import { createHead } from "@unhead/vue"
 app.use(createHead())
 
 // SCSS ✨

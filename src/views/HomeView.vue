@@ -1,6 +1,6 @@
 <script>
 import noteOSS from "@/components/noteOSS.vue"
-import { useHead } from "unhead"
+import { useHead } from "@unhead/vue"
 
 export default {
   components: {
