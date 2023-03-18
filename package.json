@@ -16,10 +16,6 @@
   "dependencies": {
     "@unhead/vue": "^1.1.23",
     "lucide-vue-next": "^0.104.0",
-<<<<<<< HEAD
-=======
-    "unhead": "^1.1.23",
->>>>>>> ab765e5e1a1e831784ac7ccbc4d7585f9ecad18c
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
