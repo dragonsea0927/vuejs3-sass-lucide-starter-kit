@@ -15,17 +15,17 @@
   },
   "dependencies": {
     "lucide-vue-next": "^0.104.0",
-    "unhead": "^1.1.22",
+    "unhead": "^1.1.23",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.0.0",
+    "@vitejs/plugin-vue": "^4.1.0",
     "@vue/eslint-config-prettier": "^7.1.0",
-    "eslint": "^8.35.0",
+    "eslint": "^8.36.0",
     "eslint-plugin-vue": "^9.9.0",
     "prettier": "^2.8.4",
-    "sass": "^1.58.3",
+    "sass": "^1.59.3",
     "vite": "^4.1.4"
   }
 }
