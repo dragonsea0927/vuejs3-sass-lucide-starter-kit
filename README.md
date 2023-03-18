@@ -19,7 +19,7 @@ In this template, we have a multitude of features that will help you to start yo
 |:--------------------------------|-----------------------------:|
 | ✅ `Vue.js`                      |                                             [🔧](https://vuejs.org/api/) - [🏠](https://vuejs.org/)                                              |
 | ✅ `Vue Router`                  |                                       [🔧](https://router.vuejs.org/api/) - [🏠](https://router.vuejs.org)                                       |
-| ✅ `@unjs/unhead`                |                            [🔧](https://unhead.harlanzw.com/guide/guides/usehead) - [🏠](https://unhead.harlanzw.com)                            |
+| ✅ `@unjs/unhead`                |                            [🔧](https://unhead.harlanzw.com/guide/composables/use-head) - [🏠](https://unhead.harlanzw.com)                            |
 | ✅ `SASS`                        |                                     [🔧](https://sass-lang.com/documentation) - [🏠](https://sass-lang.com)                                      |
 | ✅ `Lucide Icons`                |                                     [🔧](https://lucide.dev/docs/lucide-vue-next) - [🏠](https://lucide.dev)                                     |
 | ———————————————————             |             ———————————————— |
