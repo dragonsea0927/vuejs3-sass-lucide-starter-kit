@@ -7,7 +7,7 @@
 
 ## ✨ Features
 
-A template to start a new project with [Vue.js 3](https://vuejs.org/) + [**Vue Router**](https://router.vuejs.org/) + [**@unjs/Unhead**](https://unhead.harlanzw.com) for SEO, [SASS](https://sass-lang.com) and [Lucide Icons](https://lucide.dev/). ESlint and Prettier are also configured.
+A template to start a new project with [Vue.js 3](https://vuejs.org/) + [**Vue Router**](https://router.vuejs.org/) + [**@unjs/unhead**](https://unhead.harlanzw.com) for SEO, [SASS](https://sass-lang.com) and [Lucide Icons](https://lucide.dev/). ESlint and Prettier are also configured.
 
 > **Note**
 >
@@ -15,12 +15,11 @@ A template to start a new project with [Vue.js 3](https://vuejs.org/) + [**Vue R
 
 In this template, we have a multitude of features that will help you to start your project quickly and easily.
 
-
 |                                 |                                                                      Links                                                                       |  
 |:--------------------------------|-----------------------------:|
 | ✅ `Vue.js`                      |                                             [🔧](https://vuejs.org/api/) - [🏠](https://vuejs.org/)                                              |
 | ✅ `Vue Router`                  |                                       [🔧](https://router.vuejs.org/api/) - [🏠](https://router.vuejs.org)                                       |
-| ✅ `@unjs/Unhead`                |                            [🔧](https://unhead.harlanzw.com/guide/guides/usehead) - [🏠](https://unhead.harlanzw.com)                            |
+| ✅ `@unjs/unhead`                |                            [🔧](https://unhead.harlanzw.com/guide/guides/usehead) - [🏠](https://unhead.harlanzw.com)                            |
 | ✅ `SASS`                        |                                     [🔧](https://sass-lang.com/documentation) - [🏠](https://sass-lang.com)                                      |
 | ✅ `Lucide Icons`                |                                     [🔧](https://lucide.dev/docs/lucide-vue-next) - [🏠](https://lucide.dev)                                     |
 | ———————————————————             |             ———————————————— |
@@ -44,24 +43,29 @@ Thanks to them, I can continue to develop this project and others. 🤩
 ## 🚀 How to develop this project
 
 ### Project setup
+
 ```bash
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```bash
 yarn serve
 ```
 
 ### Compiles and minifies for production
+
 ```bash
 yarn build
 ```
 
 ### Lints and fixes files
+
 ```bash
 yarn lint:fix && yarn format:fix
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
